@@ -1,0 +1,4 @@
+- Team ID: LSH26-T056
+- Problem ID: P06
+- Event Start Code: LSH26-8490-C900 
+- Declaration of pre-existing work: None
