@@ -2,7 +2,7 @@
 
 This project is developed as part of the hackathon challenge to automate client reporting and generate structured digests.
 
-## Live Link: _Netlify link added after the first deploy_
+## Live Link: https://client-reporting-digest-generator.netlify.app
 
 ## 🚀 Features
 - **Automated Processing:** Python-based core script (`main.py`) to process data and generate reports.
